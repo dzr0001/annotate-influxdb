@@ -17,7 +17,7 @@ setup(
     zip_safe=False,
     long_description='Write annotations (http://grafana.org/docs/features/annotations/) into InfluxDB',
     install_requires=[
-        'click==3.3',
-        'influxdb==0.1.13',
+        'click==6.6',
+        'influxdb==2.12.0',
     ],
 )
