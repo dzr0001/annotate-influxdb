@@ -1,2 +1,2 @@
 click==3.3
-influxdb==0.1.13
+influxdb==2.12.0
